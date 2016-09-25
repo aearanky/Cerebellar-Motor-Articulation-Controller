@@ -1,7 +1,6 @@
 /*
  * Discrete CMAC code
  * Author: Aditya Earanky
- * UID:114355997
  */
  
 #include <iostream>
