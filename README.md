@@ -7,3 +7,5 @@ This set includes codes for Continuous CMAC and Discrete CMAC. The results are p
 We took a sample 100 Points and used 50 samples for training set and 50 samples for testing set. The error metric is the norm2(error data) as compared to the increasing size of the generalization window.
 
 We also checked the number of iterations requred to converge as compared to the increasing size of the generalization window.
+
+This program generates output text files which can be plotted on any system.
